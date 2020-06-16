@@ -1,14 +1,14 @@
 **Requirements**\
-  imutils\
-  pyzbar \
-  argparse\
-  pyttsx3\
-  cv2\
-  pygame\
-  sys\
-  math\
-  pyttsx\
-  threading
+\t  imutils\
+\t  pyzbar \
+\t  argparse\
+\t  pyttsx3\
+\t  cv2\
+\t  pygame\
+\t  sys\
+\t  math\
+\t  pyttsx\
+\t  threading
   
 After installing necessary dependencies, directly run Chatbot_main.pu file.
   
