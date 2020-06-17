@@ -106,7 +106,8 @@ while True:
 	
 
 
-#threading is used.
+#threading is used to perform speaking and mouth gesture operate simultaneously.
+# Otherwise mouth gesture will  occur and then the sound will come.
 			   
 
 	t1 = threading.Thread(target=speak) 
