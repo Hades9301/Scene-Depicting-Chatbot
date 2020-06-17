@@ -106,12 +106,12 @@ while True:
 	
 
 
-
+#threading is used.
 			   
 
 	t1 = threading.Thread(target=speak) 
 	t2 = threading.Thread(target=face) 
-	  
+	  th
 	    # starting thread 1 
 	t1.start() 
 	    # starting thread 2 
